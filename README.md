@@ -61,7 +61,7 @@ More information on running EPI2ME workflows can be found on our [website](https
 The following command can be used to obtain the workflow. This will pull the repository in to the assets folder of nextflow and provide a list of all parameters available for the workflow as well as an example command:
 
 ```
-nextflow run epi2me-labs/wf-pore-c -–help
+nextflow run epi2me-labs/wf-pore-c --help
 ```
 A demo dataset is provided for testing of the workflow. It can be downloaded using:
 ```
