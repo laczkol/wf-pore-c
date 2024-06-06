@@ -1,5 +1,7 @@
 # Pore-c Workflow
 
+## THIS IS A FORK OF THE ORIGINAL PORE-C WORKFLOW OF EPI2ME LABS https://github.com/epi2me-labs/wf-pore-c
+
 Workflow for analysing Pore-c data for chromatin conformation capture.
 
 
