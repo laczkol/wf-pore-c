@@ -383,7 +383,8 @@ workflow {
         error = "`--params_sheet` parameter is deprecated. Use parameter `--sample_sheet` instead."
     }
     POREC()
-    output(POREC.out.stats)
+    // commented out so error is not thrown with nextflow version 24.04.2.5914
+    // output(POREC.out.stats)
 }
 
 workflow.onComplete {
